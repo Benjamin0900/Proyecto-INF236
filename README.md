@@ -9,7 +9,7 @@ Este es el repositorio del Grupo 2, cuyos integrantes son:
 
 ## Wiki
 
-Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/mveliz/inf236-2023-1-par201-grupo-2/-/wikis/home)
+Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Josecris10/INF236-2023-1-PAR201-GRUPO-2/wiki)
 
 ## Videos
 
