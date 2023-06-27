@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d6a17ca.css",
+    "main.js": "/static/js/main.6be68679.js",
+    "static/media/chicoterry.jpg": "/static/media/chicoterry.f72acb6d922a61e667cf.jpg",
+    "static/media/prof.jpg": "/static/media/prof.a36ec06e813e53d9c675.jpg",
+    "index.html": "/index.html",
+    "main.8d6a17ca.css.map": "/static/css/main.8d6a17ca.css.map",
+    "main.6be68679.js.map": "/static/js/main.6be68679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.6be68679.js"
+  ]
+}
