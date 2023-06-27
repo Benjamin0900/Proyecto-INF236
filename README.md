@@ -17,6 +17,7 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Josecr
 
 * [Video presentación avance 1](https://www.youtube.com/watch?v=WZYdZxQPKq0)
 * [Video entrega 4](https://youtu.be/Q50kxK4RtR8)
+* [Video entrega 6 y 7](https://youtu.be/R2YbmBjm9LY)
 
 ## Aspectos técnicos relevantes
 Aquí irán los aspectos técnicos que se presenten en un futuro.
